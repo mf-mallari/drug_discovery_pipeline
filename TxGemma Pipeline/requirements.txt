@@ -1,0 +1,5 @@
+accelerate
+bitsandbytes
+huggingface_hub
+transformers
+google-generativeai
